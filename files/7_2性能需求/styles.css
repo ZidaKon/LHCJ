@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:1601px;
+  width:1200px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -1747,7 +1747,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:205px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1762,9 +1762,9 @@
 }
 #u2236 {
   position:absolute;
-  left:665px;
+  left:498px;
   top:498px;
-  width:274px;
+  width:205px;
   height:19px;
   font-size:14px;
   color:#D7D7D7;
@@ -1774,28 +1774,28 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:205px;
   word-wrap:break-word;
 }
 #u2238_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:670px;
+  width:502px;
   height:10px;
 }
 #u2238 {
   position:absolute;
   left:0px;
   top:501px;
-  width:670px;
+  width:502px;
   height:10px;
 }
 #u2239 {
   position:absolute;
   left:2px;
   top:-3px;
-  width:666px;
+  width:498px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1803,21 +1803,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:664px;
+  width:498px;
   height:9px;
 }
 #u2240 {
   position:absolute;
-  left:937px;
+  left:702px;
   top:501px;
-  width:664px;
+  width:498px;
   height:9px;
 }
 #u2241 {
   position:absolute;
   left:2px;
   top:-4px;
-  width:660px;
+  width:494px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1860,9 +1860,9 @@
 #u2245 {
   position:fixed;
   left:50%;
-  margin-left:-800.5px;
+  margin-left:-600.5px;
   top:0px;
-  width:1601px;
+  width:1201px;
   height:34px;
   overflow:hidden;
 }
@@ -1870,7 +1870,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1601px;
+  width:1201px;
   height:34px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -1889,7 +1889,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1601px;
+  width:1200px;
   height:34px;
   background:inherit;
   background-color:rgba(215, 215, 215, 1);
@@ -1920,7 +1920,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1601px;
+  width:1200px;
   height:34px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
@@ -1933,6 +1933,6 @@
   position:absolute;
   left:2px;
   top:5px;
-  width:1597px;
+  width:1196px;
   word-wrap:break-word;
 }
